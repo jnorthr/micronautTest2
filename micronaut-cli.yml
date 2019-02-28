@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: test2groovy
+---
+testFramework: spock
+sourceLanguage: groovy
